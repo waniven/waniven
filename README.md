@@ -9,10 +9,10 @@ Hi! I am William, I'm currently a second year student at Auckland University of 
 I am eager to immerse myself in complex programming concepts, acquire the ability to develop and program advanced applications, and learn how to build out scalable infrastructure, aiming to broaden my expertise and contribute innovatively to the tech landscape.
 
 ## Current skills ⚒️
-- **Languages:** Learning C and proficient in java
+- **Languages:** C and java
 - **Networking:** basis of networking and network practices
-- **Virtual Machines:** run two instances of Proxmox 
-- **Microsoft Server:** Have used active directory users and computers before
+- **Virtual Machines:** run three instances of Proxmox 
+- **Microsoft Server:** Have used active directory users and computers before when working in IT Support both as an intern and full time 
 
 ## Education 📚
 - international baccalaureate bilingual diploma completed in Germany
