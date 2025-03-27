@@ -1,7 +1,7 @@
 # William Niven
 
 ## About me 👋
-Hi! I am William, I'm currently in my first year at Auckland University of Technology (AUT), with my interests rooted in computer science, with a particular focus on networking and cyber security. My enthusiasm is driven by the desire to explore the vast possibilities that technology offers, aiming to grasp how it solves complex problems, enhance connectivity, and improve efficiency. As I begin my academic journey at AUT, I look forward to uncovering the transformative capabilities of computing and figuring out how I can make a substantial contribution to this ever-changing field.
+Hi! I am William, I'm currently a second year student at Auckland University of Technology (AUT), with my interests rooted in computer science, with a particular focus on networking and cyber security. My enthusiasm is driven by the desire to explore the vast possibilities that technology offers, aiming to grasp how it solves complex problems, enhance connectivity, and improve efficiency. As I begin my academic journey at AUT, I look forward to uncovering the transformative capabilities of computing and figuring out how I can make a substantial contribution to this ever-changing field.
 
 **Location:** Auckland, New Zealand
 
